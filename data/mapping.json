@@ -1,0 +1,11 @@
+{
+  "_说明": "《治安管理处罚法》2025修订版与旧版条文号对照。status=已核 才可引用；待核 仅作线索。",
+  "_官方来源": "国家法律法规数据库 https://flk.npc.gov.cn/ ；全国人大网 https://www.npc.gov.cn/",
+  "_最后更新": "2026-11-19",
+  "items": [
+    { "new_article": "51", "old_article": "43", "title": "殴打他人 / 故意伤害他人身体", "status": "已核", "source": "《治安管理处罚法》(2025修订) 第51条", "note": "旧43 → 新51；罚款幅度上调" },
+    { "new_article": "78", "old_article": "66", "title": "卖淫、嫖娼", "status": "已核", "source": "《治安管理处罚法》(2025修订) 第78条", "note": "旧66 → 新78" },
+    { "new_article": "79", "old_article": "67", "title": "引诱、容留、介绍卖淫", "status": "已核", "source": "《治安管理处罚法》(2025修订) 第79条", "note": "旧67 → 新79" },
+    { "new_article": "82", "old_article": "70", "title": "赌博 / 为赌博提供条件", "status": "已核", "source": "《治安管理处罚法》(2025修订) 第82条", "note": "旧70 → 新82" }
+  ]
+}
